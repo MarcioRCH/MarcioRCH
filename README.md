@@ -1,6 +1,6 @@
 ### Hi there
 
-- 🌱 I’m currently learning JAVA | JS | HTML | CSS | REACT
+- 🌱 I’m currently learning JAVA | TS | JS | HTML | CSS | REACT
 - 📫 How to contact me: marcio-rocha@outlook.com / marciorchsilva@gmail.com
 
 <div align="center">
