@@ -1,6 +1,5 @@
 ### Hi there
 
-- 🌱 I’m currently learning JAVA | TS | JS | HTML | CSS | REACT
 - 📫 How to contact me: marcio-rocha@outlook.com / marciorchsilva@gmail.com
 
 <div align="center">
@@ -9,8 +8,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioRCH&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  plain.svg">
    <img align="center" alt="Marcio-Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
 </div>
   
