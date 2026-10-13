@@ -8,7 +8,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioRCH&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  plain.svg">
    <img align="center" alt="Marcio-Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
 </div>
   
